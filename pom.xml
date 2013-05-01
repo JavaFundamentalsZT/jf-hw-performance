@@ -28,7 +28,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>org.zeroturnaround.jf2012.perf.Main</mainClass>
+							<mainClass>org.zt.jf.perf.Main</mainClass>
 						</manifest>
 					</archive>
 					<finalName>jf2012-executable</finalName>

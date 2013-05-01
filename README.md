@@ -2,7 +2,7 @@ JVM Troubleshooting and Performance Homework
 ============
 
 This project has an implemention for the N-puzzle ( http://en.wikipedia.org/wiki/Fifteen_puzzle ). The board is a
-little bit bigger though, 5x5. The project uses the class org.zeroturnaround.jf2012.perf.Main for benchmarking
+little bit bigger though, 5x5. The project uses the class org.zt.jf.perf.Main for benchmarking
 the implementation. It uses the A* algorithm by default but is bundled with depth first and breadth first approaches
 also.
 
