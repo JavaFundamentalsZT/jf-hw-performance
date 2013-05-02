@@ -30,9 +30,7 @@ public class Main {
 	private static final Board goal4x4 = new Board(4, 4);
 
 	public static void main(String[] args) {
-		System.out.println("Warmup start");
-		warmup();
-		System.out.println("Warmup done");
+    //maybe you would add something here
 
 		Board board = new Board(width, height, superSlow);
 		Finder<Board> finder = BoardFinderFactory.getFinder(board);
