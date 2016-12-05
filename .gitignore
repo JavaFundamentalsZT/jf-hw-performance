@@ -2,4 +2,8 @@ target
 dist
 classes
 bin
-
+.project
+.classpath
+.settings
+rebel.xml
+rebel-remote.xml
