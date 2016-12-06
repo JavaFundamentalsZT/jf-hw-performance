@@ -6,12 +6,13 @@ little bit bigger though, 5x5. The project uses the class `org.zeroturnaround.jf
 the implementation. It uses the A* algorithm by default but is bundled with depth first and breadth first approaches
 also.
 
-Your task is to
-* Provide me with the command line that would start the program and successfully run it.
- * Probably you want some custom flags here.
-* Describe in a sentence or two why the program is as slow as it is
-* Make whatever source code changes you see fit so that the program would run faster. Of course it needs to
-produce the same results and solve the same problem :)
-* Please provide the code changes and also measurements as how much were you able to improve the speed
+Your homework for this project is:
 
-Send the results to jf@zeroturnaround.com as you are used to.
+* Run a profiler and a debugger on the program.
+* High level give your assessment to the program
+ * What do you think of it?
+ * Is it well written?
+ * If you think it is slow then why do you think it is slow?
+* Feel free to play around with the source and try to tweak it
+
+Send a paragraph of text on minimum about this to jf@zeroturnaround.com
