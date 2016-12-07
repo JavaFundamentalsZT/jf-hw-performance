@@ -11,6 +11,7 @@ Your homework for this project is:
 * Run a profiler and a debugger on the program.
 * High level give your assessment to the program
  * What do you think of it?
+ * Do you think it performs well?
  * Is it well written?
  * If you think it is slow then why do you think it is slow?
 * Feel free to play around with the source and try to tweak it
