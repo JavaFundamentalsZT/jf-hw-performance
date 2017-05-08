@@ -6,7 +6,9 @@ little bit bigger though, 5x5. The project uses the class `org.zeroturnaround.jf
 the implementation. It uses the A* algorithm by default but is bundled with depth first and breadth first approaches
 also.
 
-Your homework for this project is:
+Your homework for this project is to send a half page of thoughts, findings, reasoning and or performance numbers to jf@zeroturnaround.com
+
+To get you started I've composed a set of tasks and questions that you can ask yourself while composing the submission.
 
 * Run a profiler and a debugger on the program
 * Try to figure out how it works
@@ -17,6 +19,5 @@ Your homework for this project is:
  * If you think it is slow then why do you think it is slow?
  * If you think it is optimal then why do you think that?
 * Feel free to play around with the source and try to tweak it and run more measurements
-* Spend minimum an hour on this.
+* Spend a minimum of an hour on this.
 
-Send half a page of thoughts, findings, reasoning and or performance numbers to jf@zeroturnaround.com
