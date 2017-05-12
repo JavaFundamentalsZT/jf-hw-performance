@@ -6,7 +6,7 @@ little bit bigger though, 5x5. The project uses the class `org.zeroturnaround.jf
 the implementation. It uses the A* algorithm by default but is bundled with depth first and breadth first approaches
 also.
 
-Your homework for this project is to send a half page of thoughts, findings, reasoning and or performance numbers to jf@zeroturnaround.com
+Your homework for this project is to send a half page of thoughts (maximum 2 pages), findings, reasoning and or performance numbers to jf@zeroturnaround.com
 
 To get you started I've composed a set of tasks and questions that you can ask yourself while composing the submission.
 
